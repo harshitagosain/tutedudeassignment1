@@ -10,7 +10,7 @@ This script helps beginners understand  arithmetic operations in Python.It helps
 - Perform basic mathematical operations
 - Display output using `print()`
 
-assignment 1 part2 
+assignment 1 part2 -:
 This script prompts the user to enter their first and last name. 
 It then uses string formatting to generate a friendly, personalized greeting message
 This exercise introduces:
